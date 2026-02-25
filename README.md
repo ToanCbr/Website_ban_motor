@@ -3,6 +3,6 @@
 ## 📌 Giao diện chính
 
 <p align="center">
-  <img src="img/gdchinh.png" width="700">
+  <img src="Project Motor/img/gdchinh.png" width="700">
 </p>
 
